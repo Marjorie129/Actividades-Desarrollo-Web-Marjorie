@@ -1,0 +1,58 @@
+#titulos{
+    color:rgb(71, 36, 7);
+    font-family:Helvetica;
+    font-size:60px ;
+    font-style:italic;
+}
+
+#subtitulos{
+    color:rgb(181, 56, 11);
+    font-family:Helvetica;
+    font-size:30px ;
+    font-style:oblique;
+    font-weight: bold;
+}
+
+h2{
+    color:rgb(50, 18, 10);
+    font-family:Helvetica;
+    font-size:20px ;
+    font-weight:bolder;
+}
+
+#estudiante{
+    color:rgb(192, 13, 13);
+    font-family:Helvetica;
+    font-size:20px ;
+    font-weight:bolder;
+}
+
+p{
+    color:rgb(242, 61, 16);
+    font-family:Helvetica;
+    font-size:20px ;
+    font-weight:bolder;
+}
+
+#titulotabla{
+    color:rgb(171, 9, 9);
+    font-family:Helvetica;
+    font-size:20px ;
+    font-weight:bold;
+}
+
+tr{
+    margin: 15px;
+    padding: 15px;
+    font-size:20px ;
+}
+
+td{
+    margin: 15px;
+    padding: 15px;
+    font-size:20px ;
+}
+
+body{
+    background: linear-gradient(90deg, rgb(244, 200, 200) 20%, rgb(182, 113, 114) 60%, rgb(142, 75, 75) 100%);
+}
